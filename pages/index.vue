@@ -1,6 +1,7 @@
 <template>
   <section>
     <SiteNavbar />
+    //TODO => Add Carousel
     <MainContent />
     <SiteFooter />
   </section>
