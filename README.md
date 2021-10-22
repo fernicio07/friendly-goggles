@@ -1,5 +1,9 @@
 # friendly-googles
 
+## Demo
+
+https://friendly-goggles.vercel.app/
+
 ## Build Setup
 
 ```bash
