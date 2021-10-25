@@ -1,21 +1,21 @@
 <template>
   <section>
     <SiteNavbar />
-    //TODO => Add Carousel
     <MainContent />
     <SiteFooter />
   </section>
 </template>
 
 <script>
-import MainContent from '../components/main/MainContent.vue';
-import SiteFooter from '../components/shared/SiteFooter.vue';
-import SiteNavbar from '../components/shared/SiteNavbar.vue';
+import MainContent from '../components/main/MainContent.vue'
+import SiteFooter from '../components/shared/SiteFooter.vue'
+import SiteNavbar from '../components/shared/SiteNavbar.vue'
 
 export default {
   components: {
     MainContent,
     SiteFooter,
-    SiteNavbar
-  }}
+    SiteNavbar,
+  },
+}
 </script>

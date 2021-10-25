@@ -19,7 +19,7 @@
   justify-content: space-between;
   background-color: #ccc;
   padding: 0 2rem;
-  
+
   .logo {
     padding: 1rem 0;
   }
@@ -43,7 +43,7 @@
 @media screen and (max-width: 375px) {
   .top-nav {
     flex-direction: column;
-    
+
     ul {
       margin: 1rem 0;
     }
