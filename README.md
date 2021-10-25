@@ -1,4 +1,4 @@
-# friendly-googles
+# friendly-goggles
 
 ## Demo
 
